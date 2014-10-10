@@ -1,4 +1,4 @@
-shellshock-hunter
+shellshock-hunter-google
 ========
 
 Search Google and concurrently test each result for vulnerability to CVE-2014-6271: remote code execute bug in bash otherwise known as Shellshock.
